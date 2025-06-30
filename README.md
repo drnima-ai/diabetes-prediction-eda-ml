@@ -48,7 +48,7 @@ After preparing the dataset, we implemented multiple machine learning models to 
 
 ## 📎 View the Notebook
 
-👉 [Click here to open the notebook](./Pima%20Indians%20Diabetes%20Dataset.ipynb)
+👉 [Click here to open the notebook]([./Pima%20Indians%20Diabetes%20Dataset.ipynb](https://github.com/drnima-ai/diabetes-prediction-eda-ml/blob/main/Machine%20Learning%20for%20Diabetes%20Prediction.ipynb))
 
 ---
 
